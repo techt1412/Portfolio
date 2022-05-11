@@ -1,0 +1,28 @@
+
+.backroungimg {
+   background-image: url(img/mainbg2.jpg);
+   
+    
+}
+.nav-bar{background-image: url(img/intro-bg.jpg);
+background-attachment: fixed;
+background-position: center center;
+background-size: cover;
+
+
+}
+
+.call-action{
+    background-image: url(img/call-to-action-bg.jpg);
+background-attachment: fixed;
+background-position: center center;
+background-size: cover;
+}
+
+
+body {
+    
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+  }
+
+  
